@@ -1,7 +1,5 @@
 <h1 align="center">Hi! 👋🏻 I'm Hadassa 👩🏻‍💻</h1>
 
-<p style="color: blue;">Este párrafo es azul.</p>
-
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=hadassa-gal&theme=dark&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=200&background=45%2C6B8E23%2CBE9C83" alt="GitHub Streak"/>
 </div>
