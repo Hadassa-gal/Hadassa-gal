@@ -1,5 +1,6 @@
-<h1 align="center">Hi! 👋🏻 I'm Hadassa 👩🏻‍💻</h1>
-
+<div align="center">
+    <img src="https://i.pinimg.com/1200x/16/60/0b/16600b312c07a7422f5fca0cd3213975.jpg" width="fit-container" height="400" alt="css-in-readme">
+</div>
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=hadassa-gal&theme=dark&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=200&background=45%2C6B8E23%2CBE9C83" alt="GitHub Streak"/>
 </div>
@@ -14,7 +15,7 @@
 >**I'm open to receiving offers for jobs**.
 
 <div align="center">
-    <img src="https://i.pinimg.com/1200x/1d/ae/7c/1dae7cd135d40d303603727ac3fa797d.jpg" width="fit-container" height="400" alt="css-in-readme">
+    <img src="https://i.pinimg.com/1200x/5e/d4/9d/5ed49d5f92d8acb3ded3302cd28853bb.jpg" width="fit-container" height="400" alt="css-in-readme">
 </div>
 
 <h3 align="left">Connect with me:</h3>
@@ -110,6 +111,9 @@
 </div>
 
 <br>
+<div align="center">
+    <img src="https://i.pinimg.com/1200x/c7/e8/fd/c7e8fd6ea17d02480d8df1ed8e23d064.jpg" width="fit-container" height="400" alt="css-in-readme">
+</div>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
