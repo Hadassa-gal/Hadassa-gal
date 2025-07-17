@@ -13,6 +13,10 @@
 >[!NOTE]
 >**I'm open to receiving offers for jobs**.
 
+<div align="center">
+    <img src="[example.svg](https://i.pinimg.com/1200x/1d/ae/7c/1dae7cd135d40d303603727ac3fa797d.jpg)" width="400" height="400" alt="css-in-readme">
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <div align="center">
   <a href="https://co.linkedin.com/in/hadassa-galindo-357a25368" target="blank">
